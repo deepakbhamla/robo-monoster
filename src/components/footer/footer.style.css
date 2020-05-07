@@ -1,0 +1,17 @@
+.rotate{
+    color: #fff;
+    font-size: 40px;
+    display: inline-block;
+    
+}
+.rotate {
+    animation: rotation 2s infinite linear;
+  }
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }

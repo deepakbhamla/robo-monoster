@@ -1,0 +1,25 @@
+.search {
+    -webkit-appearance: none;
+    border: 2px solid #fff;
+    outline: none;
+    padding: 10px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: honeydew;
+  }
+  .title{
+   
+  }
+  .input{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid cadetblue;
+    
+  }
+  

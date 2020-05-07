@@ -1,0 +1,10 @@
+.card-list{
+    background: linear-gradient(to right, rgb(60, 196, 148), rgb(113, 142, 140));
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 16px;
+    cursor: pointer;
+  
+   }
+   
